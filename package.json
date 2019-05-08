@@ -1,0 +1,25 @@
+{
+  "name": "react-native-gesture-slider",
+  "version": "0.2.0",
+  "description": "React Native Gesture Slider",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "gesture",
+    "slider"
+  ],
+  "repository": "https://github.com/andresmichel/react-native-gesture-slider",
+  "author": "Andres Michel",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-native-gesture-handler": "^1.2.1"
+  }
+}
